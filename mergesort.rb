@@ -21,4 +21,4 @@ def merge_sort (array)
 
 end
 
-puts "sort [1,3,2,6,10,5,4,7,9,8,20,15] with recursive merge  is : #{merge_sort([1,3,2,6,10,5,4,7,9,8,20,15])}  "
+puts "sort [1,3,2,9,6,10,5,4,7,9,8,20,15] with recursive merge  is : #{merge_sort([1,3,2,9,6,10,5,4,7,9,8,20,15])}  "
